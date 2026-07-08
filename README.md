@@ -169,4 +169,15 @@ esp32-color-guessing-game
 │       └── esp32-color-guessing-game.ino
 │
 ├── LICENSE
-└── README.md
+├── README.md
+└── README_TR.md
+```
+## Project Status
+
+This project was developed as a working embedded systems prototype.
+
+The game logic, display interface, rotary encoder input, custom enclosure, and portable power structure were designed and implemented as part of the project.
+
+## Author
+
+Alp Çağatay Turda
