@@ -1,5 +1,7 @@
 # ESP32 Color Guessing Game
 
+[🇹🇷 Türkçe README](README_TR.md)
+
 ESP32 Color Guessing Game is an embedded game project developed using an ESP32 microcontroller, an ST7789 TFT display, a rotary encoder, and a custom 3D printed enclosure.
 
 The game is inspired by code-breaking logic games. The player tries to guess a hidden 4-color code selected from an 8-color palette. Each guess is displayed on the TFT screen, and the system provides visual feedback for correct colors and correct positions.
