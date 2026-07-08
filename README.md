@@ -18,7 +18,7 @@ The game is inspired by code-breaking logic games. The player tries to guess a h
 
 ## Hardware Used
 
-- ESP32 development board
+- ESP32S development board
 - ST7789 240x320 TFT display
 - Rotary encoder with push button
 - Push button for back/delete function
